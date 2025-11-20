@@ -6,7 +6,7 @@ The Bank Loan Report project is designed to provide a comprehensive analysis of 
 
 This project includes three dynamic dashboards created with Tableau and a backend supported by MS SQL Server.
 
-<img width="521" height="295" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/c24b76ff-e994-4123-8088-c6ccf1012e32" />
+<img width="621" height="395" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/c24b76ff-e994-4123-8088-c6ccf1012e32" />
 
 
 🎯 Problem Statement
