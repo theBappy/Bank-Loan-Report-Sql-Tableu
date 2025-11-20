@@ -8,7 +8,6 @@ This project includes three dynamic dashboards created with Tableau and a backen
 
 <img width="621" height="395" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/c24b76ff-e994-4123-8088-c6ccf1012e32" />
 <img width="621" height="394" alt="Screenshot (366)" src="https://github.com/user-attachments/assets/3239139f-af3a-401b-b9db-56ecad0d060f" />
-<img width="616" height="394" alt="Screenshot (3ww6)" src="https://github.com/user-attachments/assets/a6dad6df-2bb6-49b8-8df5-b06504c209ca" />
 
 
 <br>
