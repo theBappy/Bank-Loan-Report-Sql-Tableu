@@ -8,7 +8,8 @@ This project includes three dynamic dashboards created with Tableau, supported b
 
 <br>
 🛠️ Tech Stack Used
-<p align="left"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="MS SQL Server" width="70" height="70"/> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="70" height="70"/> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-powerpoint-2013.svg" alt="PowerPoint" width="70" height="70"/> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" width="70" height="70"/> </p> <br> <img width="1024" height="1024" alt="56180d41-6766-4cf7-8c3d-25772907081b" src="https://github.com/user-attachments/assets/1419c24a-1929-4fa6-9e87-107a13572e3f" />
+<p align="left"><img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Microsoft_SQL_Server_Logo.svg" alt="MS SQL Server" width="70" height="70"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="70" height="70"/> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-powerpoint-2013.svg" alt="PowerPoint" width="70" height="70"/> 
 
 <br><br>
 
