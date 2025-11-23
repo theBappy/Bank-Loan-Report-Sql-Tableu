@@ -5,7 +5,8 @@
 The Pizza Sales Analysis project provides a comprehensive breakdown of a pizza restaurant’s sales performance. Using dynamic dashboards, this project visualizes total revenue, order patterns, peak sales hours, weekly trends, and product-level performance. With data-driven insights, restaurants can optimize menu offerings, manage inventory more efficiently, and improve revenue strategies.
 
 This project includes three dynamic dashboards created with Tableau, supported by a backend built on MS SQL Server.
-
+<br>
+<img width="1024" height="1024" alt="56180d41-6766-4cf7-8c3d-25772907081b" src="https://github.com/user-attachments/assets/1419c24a-1929-4fa6-9e87-107a13572e3f" />
 
 
 <br><br>
@@ -122,8 +123,7 @@ Month-to-Date (MTD) and Month-over-Month (MoM) KPIs.
 
 Granular detail view for transaction-level analysis.
 
-<br>
-<img width="1024" height="1024" alt="56180d41-6766-4cf7-8c3d-25772907081b" src="https://github.com/user-attachments/assets/1419c24a-1929-4fa6-9e87-107a13572e3f" />
+
 
 <br><br>
 
