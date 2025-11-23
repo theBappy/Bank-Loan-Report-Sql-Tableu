@@ -1,144 +1,168 @@
-🍕 Pizza Sales Analysis Project
+📄 BANK LOAN REPORT
+📊 DASHBOARD 1: SUMMARY
+🎯 Objective
 
-📝 Project Overview
+To monitor and assess the bank's lending activities and performance. This dashboard provides insights into key loan-related metrics and trends, enabling data-driven decisions and effective portfolio management.
 
-The Pizza Sales Analysis project provides a comprehensive breakdown of a pizza restaurant’s sales performance. Using dynamic dashboards, this project visualizes total revenue, order patterns, peak sales hours, weekly trends, and product-level performance. With data-driven insights, restaurants can optimize menu offerings, manage inventory more efficiently, and improve revenue strategies.
+<img width="1024" height="1024" alt="Generated Image November 23, 2025 - 11_59AM" src="https://github.com/user-attachments/assets/9a0a2bdc-f743-49e1-a3f4-c643e80fe2fa" />
 
-This project includes three dynamic dashboards created with Tableau, supported by a backend built on MS SQL Server.
+🧰 Tech Stack Used
+🟥 Microsoft SQL Server
+Used for data storage, querying, cleaning, and KPI extraction.
+📊 Tableau
 
-<br>
-🛠️ Tech Stack Used
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Microsoft_SQL_Server_Logo.svg" alt="MS SQL Server" width="70" height="70"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="70" height="70"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-powerpoint-2013.svg" alt="PowerPoint" width="70" height="70"/>
-</p>
+Used for creating interactive dashboards, charts, maps, donut charts, and KPI visuals.
+
+📘 Microsoft PowerPoint
+
+Used for report presentation, documentation, and polished business visuals.
 
 
-<br><br>
+📈 Key Performance Indicators (KPIs)
+1️⃣ Total Loan Applications
 
-🎯 Problem Statement
+Total applications received during the period
 
-The objective of this project is to:
+Month-to-Date (MTD) applications
 
-Analyze total revenue, order volume, and pizza category performance.
+Month-over-Month (MoM) changes
 
-Identify peak sales periods (hourly/weekly/monthly trends).
+2️⃣ Total Funded Amount
 
-Compare top-performing vs. worst-performing pizzas based on revenue and order count.
+Total amount disbursed as loans
 
-Understand customer demand patterns for better menu and staffing decisions.
+MTD Funded Amount
 
-Provide both summary insights and detailed analytics to drive strategic restaurant decisions.
+MoM changes
 
-<br><br>
+3️⃣ Total Amount Received
 
-📊 Dashboard Details
-Dashboard 1: Summary
+Total amount received from borrowers
 
-Provides a high-level overview of core pizza sales metrics.
+MTD Amount Received
 
-Key KPIs:
+MoM changes
 
-Total Revenue (MTD & MoM change)
+4️⃣ Average Interest Rate
 
-Total Orders (MTD & MoM change)
+Overall average interest rate
 
-Average Order Value (AOV)
+MTD average
 
-Total Pizzas Sold (MTD & MoM change)
+MoM variations
 
-Top Category Contribution (e.g., Classic, Supreme, Veggie, etc.)
+5️⃣ Average Debt-to-Income Ratio (DTI)
 
-Best vs Worst Performers:
+Average DTI of borrowers
 
-Top-Selling Pizzas (by Revenue & Quantity Sold)
+MTD average
 
-Lowest-Selling Pizzas (by Revenue & Quantity Sold)
+MoM fluctuations
 
-Top Category by Revenue
+✅ Good Loan KPIs (Fully Paid / Current)
 
-Underperforming Category Insights
+📌 Good Loan Application Percentage
 
-Sales Grid View:
+📌 Total Good Loan Applications
 
-Summarizes category-wise and pizza-wise performance with:
+📌 Good Loan Funded Amount
 
-Revenue
-Total Orders
-Total Quantity Sold
-Average Price
-Contribution %
+📌 Good Loan Total Received Amount
 
-<br>
+❌ Bad Loan KPIs (Charged Off)
 
-Dashboard 2: Overview
+⚠️ Bad Loan Application Percentage
 
-Visualizes trends and distributions across time, category, and size.
+⚠️ Total Bad Loan Applications
 
-Chart Type	Metrics	Purpose
-Line Chart	Revenue, Total Orders	Monthly & Weekly trend analysis
-Area Chart	Hourly Revenue	Identifying peak sales hours
-Bar Chart	Revenue, Quantity Sold	Pizza category performance
-Bar Chart	Revenue, Orders	Pizza size performance (S, M, L, XL)
-Treemap	Revenue, Quantity Sold	Contribution by pizza name
-Donut Chart	Orders, Revenue	Sales distribution by day of week
-<br>
+⚠️ Bad Loan Funded Amount
 
-Dashboard 3: Details
+⚠️ Bad Loan Total Received Amount
 
-Offers a complete breakdown of pizza sales at a granular level, including:
+📋 Loan Status Grid View
+🎯 Purpose
 
-Pizza-wise detailed performance
-Category, size, and menu analytics
-Hourly and daily filters
-Revenue contribution by pizza
-Dynamic drill-down for in-depth insights
-Full transaction-level view with order details
+To provide a comprehensive overview of loans categorized by status.
 
-<br><br>
+📌 Metrics
 
-🛠️ Tech Stack
+Total Loan Applications
 
-Tool	Purpose
-MS SQL Server	Data storage & preprocessing
-Tableau	Interactive dashboards & visualizations
-Data Analytics	Performance measurement, trend analysis
+Total Funded Amount
 
-<br><br>
+Total Amount Received
 
-💡 Features
+MTD Funded Amount
 
-Fully dynamic and interactive Tableau dashboards.
+MTD Amount Received
 
-Peak hour, weekday, and monthly trend analysis.
+Average Interest Rate
 
-Clear comparison of best vs worst-performing pizzas.
+Average DTI
 
-Category, size, and menu breakdown for strategic decisions.
+📊 DASHBOARD 2: OVERVIEW
+🎯 Objective
 
-Data-driven insights to improve restaurant revenue.
+Visual representation of critical loan-related metrics for trend analysis and decision-making.
 
-Month-to-Date (MTD) and Month-over-Month (MoM) KPIs.
+📉 Charts and Visualizations
+📅 1. Monthly Trends by Issue Date (Line Chart)
 
-Granular detail view for transaction-level analysis.
+Metrics: Applications, Funded Amount, Amount Received
+Purpose: Identify seasonality and long-term trends
 
-<br><br>
+🗺️ 2. Regional Analysis by State (Filled Map)
 
-📂 Data Source
+Purpose: Identify high-activity regions & disparities
 
-Database: MS SQL Server
-Tables: Orders, Order Details, Pizza Types, Pizza Sizes, Pizza Categories
-Analytics Tools: Tableau for interactive visual analysis
+🕒 3. Loan Term Analysis (Donut Chart)
 
-<br><br>
+Purpose: Understand loan distribution by term length
 
-📌 How to Use
+👔 4. Employee Length Analysis (Bar Chart)
 
-Connect Tableau to your MS SQL Server database.
+Purpose: Assess impact of employment history
 
-Import all pizza sales tables (orders, pizza types, pizza details).
+📦 5. Loan Purpose Breakdown (Bar Chart)
 
-Load the predefined dashboards (Summary, Overview, Details).
+Purpose: Identify primary financing reasons
 
-Apply filters for date ranges, categories, and pizza sizes to interact with dynamic visualizations.
+🏠 6. Home Ownership Analysis (Tree Map)
+
+Purpose: Explore the impact of ownership categories
+
+📚 DASHBOARD 3: DETAILS
+🎯 Objective
+
+A consolidated view of all essential loan information for quick access and detailed insights.
+
+🔍 Focus Areas
+
+Holistic snapshot of loan portfolio
+
+Borrower profiles and loan performance
+
+Quick access to critical KPIs
+
+Support data-driven decision-making
+
+📝 Note
+⚠️ Gaps to Highlight
+
+Missing MTD & MoM trend data in some historical records
+
+Regional coverage gaps
+
+Under-represented loan purpose categories
+
+Employment-length categories not fully captured
+
+✨ Suggested Enhancements
+
+Trend annotations
+
+Color-coded loan status indicators
+
+Interactive drill-downs
+
+Better segmentation for employment and purpose
