@@ -1,23 +1,25 @@
 📄 BANK LOAN REPORT
+<br>
 📊 DASHBOARD 1: SUMMARY
+<br>
 🎯 Objective
 
 To monitor and assess the bank's lending activities and performance. This dashboard provides insights into key loan-related metrics and trends, enabling data-driven decisions and effective portfolio management.
-
+<br>
 <img width="1024" height="1024" alt="Generated Image November 23, 2025 - 11_59AM" src="https://github.com/user-attachments/assets/9a0a2bdc-f743-49e1-a3f4-c643e80fe2fa" />
+<br>
 
+<br>
 🧰 Tech Stack Used
+
 🟥 Microsoft SQL Server
 Used for data storage, querying, cleaning, and KPI extraction.
 📊 Tableau
-
 Used for creating interactive dashboards, charts, maps, donut charts, and KPI visuals.
-
 📘 Microsoft PowerPoint
-
 Used for report presentation, documentation, and polished business visuals.
 
-
+<br><br>
 📈 Key Performance Indicators (KPIs)
 1️⃣ Total Loan Applications
 
