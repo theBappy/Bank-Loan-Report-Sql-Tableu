@@ -14,13 +14,15 @@ To monitor and assess the bank's lending activities and performance. This dashbo
 
 🟥 Microsoft SQL Server
 Used for data storage, querying, cleaning, and KPI extraction.
+<br>
 📊 Tableau
 Used for creating interactive dashboards, charts, maps, donut charts, and KPI visuals.
+<br>
 📘 Microsoft PowerPoint
 Used for report presentation, documentation, and polished business visuals.
 
 <br><br>
-📈 Key Performance Indicators (KPIs)
+📈 Key Performance Indicators (KPIs)<br>
 1️⃣ Total Loan Applications
 
 Total applications received during the period
@@ -61,6 +63,8 @@ MTD average
 
 MoM fluctuations
 
+
+<br><br>
 ✅ Good Loan KPIs (Fully Paid / Current)
 
 📌 Good Loan Application Percentage
@@ -82,10 +86,11 @@ MoM fluctuations
 ⚠️ Bad Loan Total Received Amount
 
 📋 Loan Status Grid View
+
+<br><br>
 🎯 Purpose
-
 To provide a comprehensive overview of loans categorized by status.
-
+<br>
 📌 Metrics
 
 Total Loan Applications
@@ -102,12 +107,15 @@ Average Interest Rate
 
 Average DTI
 
+
+<br><br>
 📊 DASHBOARD 2: OVERVIEW
 🎯 Objective
 
 Visual representation of critical loan-related metrics for trend analysis and decision-making.
 
 📉 Charts and Visualizations
+<br>
 📅 1. Monthly Trends by Issue Date (Line Chart)
 
 Metrics: Applications, Funded Amount, Amount Received
@@ -133,6 +141,8 @@ Purpose: Identify primary financing reasons
 
 Purpose: Explore the impact of ownership categories
 
+
+<br><br>
 📚 DASHBOARD 3: DETAILS
 🎯 Objective
 
