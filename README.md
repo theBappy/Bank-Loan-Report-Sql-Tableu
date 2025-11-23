@@ -8,8 +8,12 @@ This project includes three dynamic dashboards created with Tableau, supported b
 
 <br>
 🛠️ Tech Stack Used
-<p align="left"><img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Microsoft_SQL_Server_Logo.svg" alt="MS SQL Server" width="70" height="70"/>
- <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="70" height="70"/> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-powerpoint-2013.svg" alt="PowerPoint" width="70" height="70"/> 
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Microsoft_SQL_Server_Logo.svg" alt="MS SQL Server" width="70" height="70"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="70" height="70"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-powerpoint-2013.svg" alt="PowerPoint" width="70" height="70"/>
+</p>
+
 
 <br><br>
 
